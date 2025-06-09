@@ -1,0 +1,17 @@
+.homepage-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+}
+.homepage-title {
+  text-align: center;
+  margin-bottom: 32px;
+}
+.homepage-brands {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.homepage-contracts-btn {
+  margin-bottom: 16px;
+}

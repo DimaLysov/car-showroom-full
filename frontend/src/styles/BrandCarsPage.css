@@ -1,0 +1,17 @@
+.brandcars-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+}
+.brandcars-title {
+  text-align: center;
+  margin-bottom: 32px;
+}
+.brandcars-back-btn {
+  margin-bottom: 16px;
+}
+.brandcars-cars {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
